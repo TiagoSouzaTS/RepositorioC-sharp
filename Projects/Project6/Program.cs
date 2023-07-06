@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Project6.Entities;
+using System;
 using System.Globalization;
+using Project6.Entities.Enums;
 
 namespace Project6 {
     class Program {
@@ -8,25 +10,41 @@ namespace Project6 {
 
         static void Main(string[] args) {
 
-            Console.Write($"Entre com o valor do raio: ");
-            double raio = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write($"Enter department1s name: ");
+            Department department = new Department(Console.ReadLine());
 
-            double circ = Circunferencia(raio);
-            double volume = Volume(raio);
+            Console.WriteLine($"Enter worker data: ");
+            Console.Write($"Name: ");
+            string name = Console.ReadLine();
 
-            Console.WriteLine($"A circunferencia é: {circ.ToString("F2", CultureInfo.InvariantCulture)}");
-            Console.WriteLine($"O volume é: {volume.ToString("F2", CultureInfo.InvariantCulture)}");
-            Console.WriteLine($"Valor de é: {Pi.ToString("F2", CultureInfo.InvariantCulture)}");
-        }
+            Console.Write($"Level (Junior/MidLevel/Senior): ");
+            WorkerLevel level = Enum.Parse<WorkerLevel>(Console.ReadLine());
 
-        static double Circunferencia(double r) {
+            Console.Write($"Base salary: ");
+            double baseSalary = Convert.ToDouble(Console.ReadLine());
 
-            return 2.0 * Pi * r;
-        }
+            Worker w1 = new Worker(name, level, baseSalary, department);
 
-        static double Volume(double r) {
+            Console.Write($"How many contracts to this worker? ");
+            int contracts = Convert.ToInt32(Console.ReadLine());
 
-            return 4.0 / 3.0 * Pi * r * r * r;
+            for (int i = 1; i <= contracts; i++) {
+                Console.WriteLine($"Enter #{i} contract data: ");
+                Console.Write($"Date (DD/MM/YYYY): ");
+                DateTime d1 = Convert.ToDateTime(Console.ReadLine());
+                Console.Write($"Value per hour: ");
+                double valuePerHour1 = Convert.ToDouble(Console.ReadLine());
+                Console.Write($"Duration (hours): ");
+                TimeSpan t1 = TimeSpan.Parse(Console.ReadLine());
+            }
+            
+
+            Console.Write($"Enter month and year to calculate income (MM/YYYY): ");
+            DateTime d4 = Convert.ToDateTime(Console.ReadLine());
+
+            Console.WriteLine($"Name: {w1.Name}");
+            Console.WriteLine($"Department: {department.Name}");
+            Console.WriteLine($"Income for {d4}: {}");
         }
     }
 }
