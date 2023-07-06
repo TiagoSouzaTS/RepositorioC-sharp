@@ -29,7 +29,7 @@ namespace Project1 {
             Console.Write("Terceira medida: ");
             n2.C = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine($"--------------------------------------------");
+            Console.WriteLine($"------------------------------------------------");
 
             double areaX = n1.Area();
             double areaY = n2.Area();
