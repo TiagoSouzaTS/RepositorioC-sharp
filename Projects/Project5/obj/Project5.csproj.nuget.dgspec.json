@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jiraya\\Desktop\\DevBackendVisualStudio\\Projects\\Project5\\Project5.csproj": {}
+    "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project5\\Project5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jiraya\\Desktop\\DevBackendVisualStudio\\Projects\\Project5\\Project5.csproj": {
+    "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project5\\Project5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jiraya\\Desktop\\DevBackendVisualStudio\\Projects\\Project5\\Project5.csproj",
+        "projectUniqueName": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project5\\Project5.csproj",
         "projectName": "Project5",
-        "projectPath": "C:\\Users\\jiraya\\Desktop\\DevBackendVisualStudio\\Projects\\Project5\\Project5.csproj",
+        "projectPath": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project5\\Project5.csproj",
         "packagesPath": "C:\\Users\\jiraya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jiraya\\Desktop\\DevBackendVisualStudio\\Projects\\Project5\\obj\\",
+        "outputPath": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jiraya\\Desktop\\DevBackendVisualStudio\\Projects\\Project6\\Project6.csproj",
+      "projectUniqueName": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project6\\Project6.csproj",
       "projectName": "Project6",
-      "projectPath": "C:\\Users\\jiraya\\Desktop\\DevBackendVisualStudio\\Projects\\Project6\\Project6.csproj",
+      "projectPath": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project6\\Project6.csproj",
       "packagesPath": "C:\\Users\\jiraya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jiraya\\Desktop\\DevBackendVisualStudio\\Projects\\Project6\\obj\\",
+      "outputPath": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
