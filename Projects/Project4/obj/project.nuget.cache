@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KaLQns/+zLbzmPshRP/KtYKCt800aqVXQctfkzH4kHdo5rzkD6xkzW1jKxTX/jK+6CuOhBmhq/A9eok74KeKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jiraya\\Desktop\\DevBackendVisualStudio\\Projects\\Project4\\Project4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,56 @@
+C:\Users\teste\Documents\C#\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.exe
+C:\Users\teste\Documents\C#\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.deps.json
+C:\Users\teste\Documents\C#\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.runtimeconfig.json
+C:\Users\teste\Documents\C#\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.runtimeconfig.dev.json
+C:\Users\teste\Documents\C#\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.dll
+C:\Users\teste\Documents\C#\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.pdb
+C:\Users\teste\Documents\C#\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.csproj.AssemblyReference.cache
+C:\Users\teste\Documents\C#\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teste\Documents\C#\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.AssemblyInfoInputs.cache
+C:\Users\teste\Documents\C#\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.AssemblyInfo.cs
+C:\Users\teste\Documents\C#\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.csproj.CoreCompileInputs.cache
+C:\Users\teste\Documents\C#\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.dll
+C:\Users\teste\Documents\C#\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.pdb
+C:\Users\teste\Documents\C#\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.genruntimeconfig.cache
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.exe
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.deps.json
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.runtimeconfig.json
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.runtimeconfig.dev.json
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.dll
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.pdb
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.csproj.AssemblyReference.cache
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.AssemblyInfoInputs.cache
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.AssemblyInfo.cs
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.csproj.CoreCompileInputs.cache
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.dll
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.pdb
+C:\Users\jiraya\Desktop\Dev Backend visualstudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.genruntimeconfig.cache
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.exe
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.deps.json
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.runtimeconfig.json
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.runtimeconfig.dev.json
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.dll
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.pdb
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.csproj.AssemblyReference.cache
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.AssemblyInfoInputs.cache
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.AssemblyInfo.cs
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.csproj.CoreCompileInputs.cache
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.dll
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.pdb
+C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.genruntimeconfig.cache
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.exe
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.deps.json
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.runtimeconfig.json
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.runtimeconfig.dev.json
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.dll
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\bin\Debug\netcoreapp3.1\Project6.pdb
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.csproj.AssemblyReference.cache
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.dll
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.pdb
+C:\Users\Tiago\Desktop\DevBackendVisualStudio\Projects\Project6\obj\Debug\netcoreapp3.1\Project6.genruntimeconfig.cache
