@@ -13,7 +13,7 @@ namespace Project2
         public int Quantidade { get; private set; }
 
         public Produto() {
-            
+
         }
 
         public Produto(string nome, double preco, int quantidade) {

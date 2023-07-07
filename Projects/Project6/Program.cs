@@ -23,7 +23,7 @@ namespace Project6 {
             Console.Write($"Base salary: ");
             double baseSalary = Convert.ToDouble(Console.ReadLine());
 
-            Worker w1 = new Worker(name, level, baseSalary, department);
+            Worker w1 = new Worker();
 
             Console.Write($"How many contracts to this worker? ");
             int contracts = Convert.ToInt32(Console.ReadLine());
@@ -36,6 +36,7 @@ namespace Project6 {
                 double valuePerHour1 = Convert.ToDouble(Console.ReadLine());
                 Console.Write($"Duration (hours): ");
                 TimeSpan t1 = TimeSpan.Parse(Console.ReadLine());
+                
             }
             
 
