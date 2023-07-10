@@ -4,7 +4,7 @@ namespace Project3.Entities {
         public string Text { get; set; }
 
         public Comment() {
-
+ 
         }
 
         public Comment(string text) {

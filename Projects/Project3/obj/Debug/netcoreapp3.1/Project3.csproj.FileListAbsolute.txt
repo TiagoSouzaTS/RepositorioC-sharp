@@ -40,3 +40,17 @@ C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project3\obj\Debug\netco
 C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.dll
 C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.pdb
 C:\Users\jiraya\Desktop\DevBackendVisualStudio\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.genruntimeconfig.cache
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\bin\Debug\netcoreapp3.1\Project3.exe
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\bin\Debug\netcoreapp3.1\Project3.deps.json
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.json
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.dev.json
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\bin\Debug\netcoreapp3.1\Project3.dll
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\bin\Debug\netcoreapp3.1\Project3.pdb
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.csproj.AssemblyReference.cache
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfoInputs.cache
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfo.cs
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.csproj.CoreCompileInputs.cache
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.dll
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.pdb
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project3\obj\Debug\netcoreapp3.1\Project3.genruntimeconfig.cache
