@@ -1,5 +1,4 @@
 ﻿
-
 namespace Project1.Entities
 {
     class SavingsAccount : Account
@@ -15,9 +14,9 @@ namespace Project1.Entities
             InterestRate = interestRate;
         }
 
-        public void UpdateBalance(double balance) {
+        public void UpdateBalance() {
 
-            Balance += balance * InterestRate;
+            Balance += Balance * InterestRate;
         }
     }
 }
