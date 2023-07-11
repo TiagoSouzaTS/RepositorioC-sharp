@@ -17,9 +17,9 @@ namespace Project1.Entities
             Balance = balance;
         }
 
-        public void Withdraw(double amount) {
+        public virtual void Withdraw(double amount) {
 
-            Balance -= amount;
+            Balance -= amount +5;
         }
 
         public void Deposit(double amount) {

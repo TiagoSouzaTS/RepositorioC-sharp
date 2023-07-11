@@ -1,7 +1,7 @@
 ﻿
 namespace Project1.Entities
 {
-    class SavingsAccount : Account
+    sealed class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
 
@@ -17,6 +17,12 @@ namespace Project1.Entities
         public void UpdateBalance() {
 
             Balance += Balance * InterestRate;
+        }
+
+        public sealed override void Withdraw(double amount) {
+
+            base.Withdraw(amount);
+            Balance -= 2.0;
         }
     }
 }
