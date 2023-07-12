@@ -1,7 +1,7 @@
 ﻿
 namespace Project1.Entities
 {
-    internal class Account
+    internal abstract class Account
     {
         public int Number { get; set; }
         public string Holder { get; set; }
