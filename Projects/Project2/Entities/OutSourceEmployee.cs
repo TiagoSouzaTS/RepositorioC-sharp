@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Globalization;
-using System.Text;
-
-namespace Project2.Entities
+﻿namespace Project2.Entities
 {
     internal sealed class OutSourceEmployee : Employee
     {

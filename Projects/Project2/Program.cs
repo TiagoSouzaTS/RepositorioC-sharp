@@ -20,24 +20,20 @@ namespace Project2 {
                 Console.WriteLine($"Employee #{i} data:");
                 Console.Write($"Outsourced (y/n)? ");
                 char outsourced = Convert.ToChar(Console.ReadLine());
+                Console.Write($"Name: ");
+                string name = Console.ReadLine();
+                Console.Write($"Hours: ");
+                int hours = Convert.ToInt32(Console.ReadLine());
+                Console.Write($"Value per hour: ");
+                double valueperhour = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
                 if (outsourced == 'y') {
-                    Console.Write($"Name: ");
-                    string name = Console.ReadLine();
-                    Console.Write($"Hours: ");
-                    int hours = Convert.ToInt32(Console.ReadLine());
-                    Console.Write($"Value per hour: ");
-                    double valueperhour = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    
                     Console.Write($"Additional charge: ");
                     double additionalCharge = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
                     employee.Add(new OutSourceEmployee { Name = name, Hours = hours, ValuePerHour = valueperhour, AdditionalCharge = additionalCharge});
                 }
                 else {
-                    Console.Write($"Name: ");
-                    string name = Console.ReadLine();
-                    Console.Write($"Hours: ");
-                    int hours = Convert.ToInt32(Console.ReadLine());
-                    Console.Write($"Value per hour: ");
-                    double valueperhour = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+                   
                     employee.Add(new Employee { Name = name, Hours = hours, ValuePerHour = valueperhour });
                 }
 
