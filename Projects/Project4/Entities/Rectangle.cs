@@ -9,10 +9,8 @@ namespace Project4.Entities {
         public double Width { get; set; }
         public double Height { get; set; }
 
-        public Rectangle() { 
-
-        }
-        public Rectangle(double width, double height, Coloor color) : base() {
+        
+        public Rectangle(double width, double height, Coloor color) : base(color) {
 
             Width = width;
             Height = height;

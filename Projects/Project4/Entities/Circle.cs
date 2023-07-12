@@ -9,11 +9,8 @@ namespace Project4.Entities {
 
         public double Radius { get; set; }
 
-        public Circle() {
-
-        }
-
-        public Circle(double radius, Coloor color) : base() {
+       
+        public Circle(double radius, Coloor color) : base(color) {
 
             Radius = radius;
         }

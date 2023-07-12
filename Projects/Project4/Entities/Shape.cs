@@ -10,15 +10,10 @@ namespace Project4.Entities
     abstract class Shape {
 
         public Coloor Color { get; set; }
-
-        public Shape() {
-
-
-        }
         
         public Shape(Coloor color) {
 
-            Color = new Coloor();
+            Color = color;
         }
 
         public abstract double Area();
