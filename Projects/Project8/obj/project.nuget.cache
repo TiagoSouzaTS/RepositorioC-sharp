@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eKqS7KOKHu5NPSqKx5Yd1OI1o0T4ER05/e9+ORnZacjlKLKRm1SS+SuzJ7sozw9uATcYIWFNhD5a56ZTUMwfIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project8\\Project8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

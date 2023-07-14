@@ -1,0 +1,14 @@
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\bin\Debug\netcoreapp3.1\Project8.exe
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\bin\Debug\netcoreapp3.1\Project8.deps.json
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\bin\Debug\netcoreapp3.1\Project8.runtimeconfig.json
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\bin\Debug\netcoreapp3.1\Project8.runtimeconfig.dev.json
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\bin\Debug\netcoreapp3.1\Project8.dll
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\bin\Debug\netcoreapp3.1\Project8.pdb
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\obj\Debug\netcoreapp3.1\Project8.csproj.AssemblyReference.cache
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\obj\Debug\netcoreapp3.1\Project8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\obj\Debug\netcoreapp3.1\Project8.AssemblyInfoInputs.cache
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\obj\Debug\netcoreapp3.1\Project8.AssemblyInfo.cs
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\obj\Debug\netcoreapp3.1\Project8.csproj.CoreCompileInputs.cache
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\obj\Debug\netcoreapp3.1\Project8.dll
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\obj\Debug\netcoreapp3.1\Project8.pdb
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project8\obj\Debug\netcoreapp3.1\Project8.genruntimeconfig.cache
