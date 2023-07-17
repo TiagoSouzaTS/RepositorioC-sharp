@@ -1,19 +1,23 @@
 ﻿using System;
 using System.IO;
+using System.Net.WebSockets;
 
 namespace Project8 {
     internal class Program {
         static void Main(string[] args) {
 
-            string path = @"C:\Users\jiraya\Documents\file1.txt"; //utilizado um @ para poder colocar só uma \ para o caminho. 
+            string sourcePath = @"C:\Users\jiraya\Documents\file1.txt"; //utilizado um @ para poder colocar só uma \ para o caminho. 
+            string targetPath = @"C:\Users\jiraya\Documents\file2.txt";
 
             try {
 
-                using (StreamReader sr = File.OpenText(path)) {
-                    while (!sr.EndOfStream) {
+                string[] lines = File.ReadAllLines(sourcePath);
 
-                        string line = sr.ReadLine();
-                        Console.WriteLine($"{line}");
+                using (StreamWriter sw = File.AppendText(targetPath)) {
+
+                    foreach (string line in lines) {
+
+                        sw.WriteLine(line.ToUpper());
                     }
                 }
             }
