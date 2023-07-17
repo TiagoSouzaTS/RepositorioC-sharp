@@ -8,27 +8,15 @@ namespace Project9 {
 
             Console.WriteLine($"Enter rental data");
             Console.Write($"Car model: ");
-            string modelCar = Console.ReadLine();
+            Vehicle modelCar = new Vehicle(Console.ReadLine());
             Console.Write($"Pickup (dd/MM/yyyy hh:mm): ");
-            DateTime inicio = Convert.ToDateTime(Console.ReadLine());
+            DateTime start = Convert.ToDateTime(Console.ReadLine());
             Console.Write($"Return (dd/MM/yyyy hh:mm): ");
-            DateTime final = Convert.ToDateTime(Console.ReadLine());
-            Console.Write($"Enter price per hour: ");
-            double pricePerHour = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write($"Enter price per day: ");
-            double pricePerDay = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+            DateTime finish = Convert.ToDateTime(Console.ReadLine());
 
-            Locacao l1 = new Locacao(modelCar, inicio, final, pricePerHour, pricePerDay);
-            Console.WriteLine($"INVOICE: ");
+            CarRental c1 = new CarRental(start, finish, modelCar);
 
-            double basicPayment = l1.BasicPayment(inicio, final);
-            Console.WriteLine($"Basic Payment: {basicPayment.ToString("F2", CultureInfo.InvariantCulture)}");
 
-            double tax = l1.CalculoImposto(basicPayment);
-            Console.WriteLine($"Tax: {tax.ToString("F2", CultureInfo.InvariantCulture)}");
-            
-            double totalPayment = l1.TotalPayment(basicPayment, tax);
-            Console.WriteLine($"Total payment: {totalPayment.ToString("F2", CultureInfo.InvariantCulture)}");
         }
     }
 }
