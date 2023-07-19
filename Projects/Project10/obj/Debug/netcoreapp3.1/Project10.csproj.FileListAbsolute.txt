@@ -1,0 +1,14 @@
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\bin\Debug\netcoreapp3.1\Project10.exe
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\bin\Debug\netcoreapp3.1\Project10.deps.json
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\bin\Debug\netcoreapp3.1\Project10.runtimeconfig.json
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\bin\Debug\netcoreapp3.1\Project10.runtimeconfig.dev.json
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\bin\Debug\netcoreapp3.1\Project10.dll
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\bin\Debug\netcoreapp3.1\Project10.pdb
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\obj\Debug\netcoreapp3.1\Project10.csproj.AssemblyReference.cache
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\obj\Debug\netcoreapp3.1\Project10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\obj\Debug\netcoreapp3.1\Project10.AssemblyInfoInputs.cache
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\obj\Debug\netcoreapp3.1\Project10.AssemblyInfo.cs
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\obj\Debug\netcoreapp3.1\Project10.csproj.CoreCompileInputs.cache
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\obj\Debug\netcoreapp3.1\Project10.dll
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\obj\Debug\netcoreapp3.1\Project10.pdb
+C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project10\obj\Debug\netcoreapp3.1\Project10.genruntimeconfig.cache
