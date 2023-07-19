@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Text;
 
 namespace Project10.Model.Entities {
-    internal class Circle : Shape {
+    internal class Circle : AbstractShape {
 
         public double Radius { get; set; }
 

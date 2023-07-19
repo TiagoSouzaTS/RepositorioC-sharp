@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 
 namespace Project10.Model.Entities {
-    internal class Rectangle : Shape {
+    internal class Rectangle : AbstractShape {
 
         public double Width { get; set; }
         public double Height { get; set; }
