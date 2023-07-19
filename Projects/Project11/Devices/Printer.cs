@@ -1,14 +1,16 @@
 ﻿
+using System;
 namespace Project11.Devices {
-    internal class Printer : Device {
+    internal class Printer : Device, IPrinter{
 
         public override void ProcessDoc(string document) {
 
-            
+            Console.WriteLine($"Printer processing: {document}");
         }
 
-        public void Print(string doc) {
+        public void Print(string document) {
 
+            Console.WriteLine($"Printer print: {document}");
         }
     }
 }

@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Project11.Devices {
-    internal class Scanner : Device {
+﻿namespace Project11.Devices {
+    internal class Scanner : Device, IScanner {
 
         public override void ProcessDoc(string document) {
 
-
+            System.Console.WriteLine($"Scanner processing: {document}");
         }
 
         public string Scan() {
 
-            return "teste";
+            return $"Scanner scan result";
         }
     }
 }
