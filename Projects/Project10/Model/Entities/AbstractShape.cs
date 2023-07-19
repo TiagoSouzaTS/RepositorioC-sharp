@@ -5,6 +5,6 @@ namespace Project10.Model.Entities {
 
         public Coloor Color { get; set; }
 
-        public abstract double Area();
+        public abstract double Area(); //Em C# a interface obriga a implementação do contrato mesmo em uma class abstrata.
     }
 }
