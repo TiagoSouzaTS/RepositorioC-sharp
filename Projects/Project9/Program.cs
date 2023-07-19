@@ -22,7 +22,7 @@ namespace Project9 {
             Console.Write($"Enter price per Day: ");
             double day = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            RentalService r1 = new RentalService(hour, day);
+            RentalService r1 = new RentalService(hour, day, new BrazilTaxService());
 
             r1.ProcessInvoice(c1);
 
