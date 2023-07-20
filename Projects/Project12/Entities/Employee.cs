@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 
 namespace Project12.Entities {
-    internal class Employee {
+    internal class Employee  {
 
         public string Name { get; set; }
         public double Salary { get; set; }
