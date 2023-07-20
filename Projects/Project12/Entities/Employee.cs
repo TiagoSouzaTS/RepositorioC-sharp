@@ -1,7 +1,8 @@
 ﻿using System.Globalization;
+using System;
 
 namespace Project12.Entities {
-    internal class Employee  {
+    internal class Employee : IComparable {
 
         public string Name { get; set; }
         public double Salary { get; set; }
@@ -17,6 +18,18 @@ namespace Project12.Entities {
         public override string ToString() {
 
             return $"{Name}, {Salary.ToString("F2", CultureInfo.InvariantCulture)}";
+        }
+
+        public int CompareTo(object obj) {
+
+            if (!(obj is Employee)) { //If para se certificar que o objeto passado seja do tipo Employee.
+
+                throw new ArgumentException("Comparing error: argument is not an Employee");      
+            }
+
+            Employee other = (Employee)obj; //realizando downcasting de obj para Employee.
+
+            return Name.CompareTo(other.Name);
         }
     }
 }
