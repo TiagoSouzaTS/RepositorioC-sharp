@@ -5,7 +5,7 @@ namespace Project13 {
         private T[] _values = new T[10];
         private int _count = 0;
 
-        public void AddValue(T value) {
+        public void AddValue(T value) { //parametrizando o parâmetro do método. 
 
             if (_count == 10) {
                 throw new InvalidOperationException($"PrintService is full");
