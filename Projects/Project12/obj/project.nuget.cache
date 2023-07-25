@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qt8bHuw+t/0xwSVZXasIHLXq0hAoI4hwia5dwSuJLE1Np3z5I5ycq48fs/9Ch6NQzPfAQ5Bq5QWmQ8H+yv1fDQ==",
+  "dgSpecHash": "/SKpOO6mcCBal77qIfhlde2Vo8FEwvSdOkOwcgiVBFmHbIlawG1m9B8GhqSU6F9kVaEvAguG0IvFbUYC6yutxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tiago\\Desktop\\Dev-Csharp\\Projects\\Project12\\Project12.csproj",
+  "projectFilePath": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project12\\Project12.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Tiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jiraya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }

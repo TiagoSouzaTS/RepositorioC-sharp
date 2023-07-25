@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tiago\\Desktop\\Dev-Csharp\\Projects\\Project15\\Project15.csproj": {}
+    "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project15\\Project15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tiago\\Desktop\\Dev-Csharp\\Projects\\Project15\\Project15.csproj": {
+    "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project15\\Project15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiago\\Desktop\\Dev-Csharp\\Projects\\Project15\\Project15.csproj",
+        "projectUniqueName": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project15\\Project15.csproj",
         "projectName": "Project15",
-        "projectPath": "C:\\Users\\Tiago\\Desktop\\Dev-Csharp\\Projects\\Project15\\Project15.csproj",
-        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiago\\Desktop\\Dev-Csharp\\Projects\\Project15\\obj\\",
+        "projectPath": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project15\\Project15.csproj",
+        "packagesPath": "C:\\Users\\jiraya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jiraya\\Desktop\\DevC-sharp\\Projects\\Project15\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jiraya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,6 +62,14 @@
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
             }
           ],
           "frameworkReferences": {
