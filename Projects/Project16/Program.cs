@@ -1,29 +1,34 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using Project16.Entities;
 
 namespace Project16 {
     internal class Program {
         static void Main(string[] args) {
 
-            SortedSet<int> a = new SortedSet<int>() { 0, 2, 4, 5, 6, 8, 10 };
-            SortedSet<int> b = new SortedSet<int>() { 5, 6, 7, 8, 9, 10 };
+            HashSet<LogRecord> set = new HashSet<LogRecord>();
 
-            SortedSet<int> c = new SortedSet<int>(a);
-            c.UnionWith(b);
-            SortedSet<int> d = new SortedSet<int>(a);
-            d.IntersectWith(b);
-            SortedSet<int> e = new SortedSet<int>(a);
-            e.ExceptWith(b);
-            PrintCollection(a);
-        }
 
-        static void PrintCollection<T>(IEnumerable<T> collection) {
+            Console.WriteLine($"Enter file full path: ");
+            string path = @"C:\Users\jiraya\Documents\myfolder\file2.txt";
 
-            foreach (T obj in collection) {
+            try {
+                using (StreamReader sr = File.OpenText(path)) {
+                    while (!sr.EndOfStream) {
+                        string[] line = sr.ReadLine().Split(' ');
+                        string name = line[0];
+                        DateTime instant = DateTime.Parse(line[1]);
+                        set.Add(new LogRecord { Username = name, Instant = instant});
 
-                Console.Write(obj + " ");
+                    }
+                    Console.WriteLine($"Total users: {set.Count}");
+                }
             }
-            Console.WriteLine();
+            catch (IOException apelido) {
+
+                Console.WriteLine(apelido.Message);
+            }
         }
     }
 }
