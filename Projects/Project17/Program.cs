@@ -10,7 +10,8 @@ namespace Project17 {
             cookies["user"] = "maria";
             cookies["email"] = "maria@gmail.com";
             cookies["phone"] = "99771122";
-            cookies["user"] = "99771133";
+            cookies["phone"] = "99771133";
+            cookies.Add("user", "maria");
 
             Console.WriteLine($"{cookies["email"]}");
 
@@ -29,9 +30,9 @@ namespace Project17 {
 
             Console.WriteLine($"ALL COOKIES: ");
 
-            foreach (KeyValuePair<string, string> apelido in cookies) {
+            foreach (KeyValuePair<string, string> item in cookies) {
 
-                Console.WriteLine($"{apelido.Key}: {apelido.Value}");
+                Console.WriteLine($"{item.Key}: {item.Value}");
             }
         }
     }
