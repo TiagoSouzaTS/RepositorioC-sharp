@@ -7,6 +7,11 @@ namespace Project18 {
 
             DateTime dt = new DateTime(2023, 07, 26, 8, 10, 45);
             Console.WriteLine(dt.ElapsedTime()); // Método de extensão do struct DateTime. 
+
+            string s1 = $"Good morning dear students!";
+            Console.WriteLine(s1.Cut(10));
+
+            
         }
     }
 }

@@ -12,3 +12,17 @@ C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project18\obj\Debug\netcoreapp3.1\Pr
 C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.dll
 C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.pdb
 C:\Users\jiraya\Desktop\DevC-sharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.genruntimeconfig.cache
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\bin\Debug\netcoreapp3.1\Project18.exe
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\bin\Debug\netcoreapp3.1\Project18.deps.json
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\bin\Debug\netcoreapp3.1\Project18.runtimeconfig.json
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\bin\Debug\netcoreapp3.1\Project18.runtimeconfig.dev.json
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\bin\Debug\netcoreapp3.1\Project18.dll
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\bin\Debug\netcoreapp3.1\Project18.pdb
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.csproj.AssemblyReference.cache
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.dll
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.pdb
+C:\Users\Tiago\Desktop\Dev-Csharp\Projects\Project18\obj\Debug\netcoreapp3.1\Project18.genruntimeconfig.cache

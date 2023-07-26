@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace System {
+namespace System { //documentar o macete do system
     internal static class StringExtensions {
 
         public static string Cut(this string thisObj, int count) {
