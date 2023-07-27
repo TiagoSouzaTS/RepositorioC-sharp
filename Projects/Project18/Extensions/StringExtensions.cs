@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace System { //documentar o macete do system
+﻿namespace System { //documentar o macete do system
     internal static class StringExtensions {
 
         public static string Cut(this string thisObj, int count) {
