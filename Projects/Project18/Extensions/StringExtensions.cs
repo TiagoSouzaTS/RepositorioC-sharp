@@ -1,16 +1,17 @@
-﻿namespace System { //documentar o macete do system
-    internal static class StringExtensions {
+﻿
 
-        public static string Cut(this string thisObj, int count) {
+namespace System {  
+internal static class StringExtensions {
 
-            if (thisObj.Length < count) {
+    public static string Cut(this string thisObj, int count) {
 
-                return thisObj;
-            }
-            else {
+        if (thisObj.Length < count) {
 
-                return thisObj.Substring(0, count) + "...";
-            }
+            return thisObj;
+        }
+        else {
+
+            return thisObj.Substring(0, count) + "...";
         }
     }
 }
